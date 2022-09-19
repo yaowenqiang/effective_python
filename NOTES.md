@@ -4,4 +4,7 @@
 # Avoid else blocks after for and while loops
 # Consider contextlib and with statements for reusable try/finally behavior
 # Avoid more than two expression in list comprehensions
+# Consider generator expressions for large comprehensions
+
+
 
