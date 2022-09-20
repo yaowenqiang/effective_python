@@ -5,6 +5,7 @@
 # Consider contextlib and with statements for reusable try/finally behavior
 # Avoid more than two expression in list comprehensions
 # Consider generator expressions for large comprehensions
+# Consider generators instead of returning lists
 
 
 
