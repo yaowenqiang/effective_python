@@ -6,6 +6,7 @@
 # Avoid more than two expression in list comprehensions
 # Consider generator expressions for large comprehensions
 # Consider generators instead of returning lists
+# Be defensive when iterating over arguments
 
 
 
