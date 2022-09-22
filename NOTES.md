@@ -7,6 +7,7 @@
 # Consider generator expressions for large comprehensions
 # Consider generators instead of returning lists
 # Be defensive when iterating over arguments
+# Accept functions for simple interfaces instead of classes
 
 
 
